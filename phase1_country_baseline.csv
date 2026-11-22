@@ -1,0 +1,6 @@
+Country,Number of reactors,Capacity_GW,Lifetime_TWh,Avg_age_yrs,Productivity_TWh_per_GW,First_construction_year,First_grid_year,First_unit_lead_time_yrs
+China,59,57.43,4845.2,12.51,84.37,1972,1977,5.46
+France,57,63.0,14984.41,40.28,237.85,1955,1959,4.14
+"Korea, Republic of",26,25.61,4277.84,25.0,167.04,1972,1977,4.9
+Russian Federation,37,28.0,5286.04,31.24,188.77,1951,1954,3.48
+United States of America,94,96.95,28415.11,44.53,293.08,1954,1957,3.8
